@@ -1,0 +1,63 @@
+{
+  "inputs": {
+    "surname": {
+      "data": {
+        "value": "",
+        "isValid": true,
+        "dataSource": []
+      }
+    },
+    "name": {
+      "data": {
+        "value": "",
+        "isValid": true,
+        "dataSource": []
+      }
+    },
+    "midname": {
+      "data": {
+        "value": "",
+        "isValid": true,
+        "dataSource": []
+      }
+    },
+    "sex": {
+      "data": {
+        "value": 0,
+        "isValid": true
+      }
+    },
+    "date": {
+      "data": {
+        "value": "",
+        "isValid": true
+      }
+    },
+    "phone": {
+      "data": {
+        "value": "",
+        "isValid": true
+      }
+    },
+    "email": {
+      "data": {
+        "value": "",
+        "isValid": true
+      }
+    },
+    "reg_address": {
+      "data": {
+        "value": "",
+        "isValid": true,
+        "dataSource": []
+      }
+    },
+    "employer": {
+      "data": {
+        "value": "",
+        "isValid": true,
+        "dataSource": []
+      }
+    }
+  }
+}

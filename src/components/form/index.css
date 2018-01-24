@@ -1,0 +1,70 @@
+.form {
+  height: 760px;
+  width: 700px;
+
+  display: grid;
+  grid-row-gap: 10px;
+  grid-column-gap: 10px;
+  grid-template: repeat(8, 1fr) / repeat(2, 1fr);
+
+  align-items: center;
+}
+
+.form_button {
+  height: 50px;
+}
+
+#up_down_icon {
+  transform: rotate(90deg);
+}
+
+#surname {
+  grid-area: 1 / 1 / span 1 / span 2;
+}
+#name {
+  grid-area: 2 / 1 / span 1 / span 2;
+}
+#midname {
+  grid-area: 3 / 1 / span 1 / span 2;
+}
+
+#sex {
+  grid-area: 4 / 1 / span 1 / span 1;
+}
+
+#date {
+  grid-area: 4 / 2 / span 1 / span 1;
+}
+
+#phone {
+  grid-area: 5 / 1 / span 1 / span 1;
+}
+
+#email {
+  grid-area: 5 / 2 / span 1 / span 1;
+}
+
+#reg_address {
+  grid-area: 6 / 1 / span 1 / span 2;
+}
+#employer {
+  grid-area: 7 / 1 / span 1 / span 2;
+}
+
+#send {
+  grid-area: 8 / 2 / span 1 / span 1;
+}
+
+.simple {
+  padding-left: 300px;
+  bottom: 25px;
+  position: relative;
+  z-index: 1;
+}
+
+.invalid {
+  padding-left: 300px;
+  bottom: 35px;
+  position: relative;
+  z-index: 1;
+}
