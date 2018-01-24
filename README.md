@@ -1,5 +1,5 @@
 # add_new_employee
-
+[Imgur](https://i.imgur.com/ZCoNR5D.png)
 ## Описание
 
 Тестовое задание на позицию “Junior FrontEnd JavaScript (React) разработчик”
